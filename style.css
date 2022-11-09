@@ -1,0 +1,17 @@
+body {
+    background-color:aqua;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+footer a img {
+    width: 40px;
+    margin: 5px;
+}
+
+body section button {
+    background-color: rgb(54, 54, 148);
+    color: antiquewhite;
+    width: 100px;
+    height: 40px;
+}
